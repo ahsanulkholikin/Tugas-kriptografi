@@ -7,7 +7,7 @@
 </h1>
 
 
-## Deskripsi Singkat
+## 
 Membuat sebuah program yang mengimplementasikan:
 
 <ol>
