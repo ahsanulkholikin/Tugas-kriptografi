@@ -1,7 +1,7 @@
 <h1 align="center">
     <b>
         <br>
-        Tugas Kriptografi Semester
+        Tugas Besar Kriptografi
         <br>
     </b>
 </h1>
