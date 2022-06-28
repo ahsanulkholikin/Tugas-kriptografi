@@ -20,9 +20,7 @@ Membuat sebuah program yang mengimplementasikan:
 
 <p>
     <b>
-        IF 19 S Kriptografi 2022
         <br>
-        Teknik Informatika 2022
         <br>
         <br>
         Ahsannul Kholikin (19SA1295)
