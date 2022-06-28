@@ -18,7 +18,7 @@ Membuat sebuah program yang mengimplementasikan:
     <li>Super enkripsi: Vigenere Cipher standard + cipher transposisi (bebas). Jelaskan cipher transposisi yang dibuat.</li>
 </ol>
 
-<p align="center">
+<p>
     <b>
         IF 19 S Kriptografi 2022
         <br>
